@@ -1,2 +1,2 @@
-# investigators-playbook
-Playbooks for threat hunting &amp; incident response investigations
+# investigators-toolkit
+Tools for threat hunting & incident response investigations
