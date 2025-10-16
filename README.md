@@ -15,3 +15,6 @@ Tools for threat hunting & incident response investigations
 <img width="400" height="309" alt="scheduledExecHunter" src="https://github.com/user-attachments/assets/b200e166-d503-456c-ab4e-d3eddc2c21a4" />
 
 
+## [evtxFind](https://github.com/ndr-repo/investigators-toolkit/blob/main/evtxFind.ps1)
+**EVTX file discovery in System32**
+  - Orders event log files by size & last write time
