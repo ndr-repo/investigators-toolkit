@@ -17,4 +17,5 @@ Tools for threat hunting & incident response investigations
 
 ## [evtxFind](https://github.com/ndr-repo/investigators-toolkit/blob/main/evtxFind.ps1)
 **EVTX file discovery in System32**
+  - Discovers event log files for DeepBlueCLI  
   - Orders event log files by size & last write time
