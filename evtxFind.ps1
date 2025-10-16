@@ -1,1 +1,1 @@
-Get-ChildItem -File -Recurse -Path C:\Windows\System32 -ErrorAction SilentlyContinue | Where-Object -Property Extension -EQ ".evtx" | Sort-Object -Property LastWriteTimeUtc,Length | Select-Object -Property LastWriteTimeUtc,Length,FullName  | Write-Host -ForegroundColor Red
+Get-ChildItem -File -Recurse -Path C:\Windows\System32 -ErrorAction SilentlyContinue | Where-Object -Property Extension -EQ ".evtx" | Sort-Object -Property LastWriteTimeUtc,Length | Select-Object -Property LastWriteTimeUtc,Length,FullName 
