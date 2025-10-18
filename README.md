@@ -1,7 +1,5 @@
 # investigators-toolkit
-Tools for threat hunting & incident response investigations
-
-
+Tools for threat hunting & cyber incident response 
 
 ## [scheduledExecHunter](https://github.com/ndr-repo/investigators-toolkit/blob/main/scheduledExecHunter.ps1)
 
