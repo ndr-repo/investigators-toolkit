@@ -16,7 +16,7 @@ Tools for threat hunting & incident response investigations
     
 ## [netListenHunter](https://github.com/ndr-repo/investigators-toolkit/blob/main/netListenHunter.ps1)
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/92c9e3ec-c12b-4714-9f6d-0c02c6a3cfb6" />
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/92c9e3ec-c12b-4714-9f6d-0c02c6a3cfb6" />
 
 
 **Automated threat hunting for TCP listener files**
