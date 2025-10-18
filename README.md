@@ -14,8 +14,17 @@ Tools for threat hunting & incident response investigations
   - Searches each hash on Open Threat Exchange
   - Displays results of each hash searched on OTX
     
+## [netListenHunter](https://github.com/ndr-repo/investigators-toolkit/blob/main/netListenHunter.ps1)
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/92c9e3ec-c12b-4714-9f6d-0c02c6a3cfb6" />
 
 
+**Automated threat hunting for TCP listener files**
+- Discovers running files listening on TCP ports
+- Displays location of file
+- Creates SHA256 file checksum hash
+- Searches each hash on Open Threat Exchange
+- Displays results of each hash searched on OTX
 
 ## [evtxFind](https://github.com/ndr-repo/investigators-toolkit/blob/main/evtxFind.ps1)
 **EVTX file discovery in System32**
